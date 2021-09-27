@@ -1,0 +1,71 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1606234718434/work
+astunparse==1.6.3
+avro-python3==1.10.2
+beniget==0.3.0
+cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
+cachetools==4.2.2
+certifi==2021.5.30
+charset-normalizer==2.0.6
+contextlib2==21.6.0
+cycler==0.10.0
+Cython @ file:///Users/ktietz/demo/mc3/conda-bld/cython_1628585205880/work
+decorator==5.1.0
+flatbuffers==1.12
+gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///Users/runner/miniforge3/conda-bld/grpcio_1610588581604/work
+h5py @ file:///Users/runner/miniforge3/conda-bld/h5py_1609497512060/work
+idna==3.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///Users/ktietz/demo/mc3/conda-bld/kiwisolver_1628942354602/work
+lvis==0.5.3
+lxml==4.6.3
+Markdown==3.3.4
+matplotlib @ file:///Users/ktietz/demo/mc3/conda-bld/matplotlib-suite_1629898003929/work
+networkx==2.6.3
+numpy==1.21.2
+oauthlib==3.1.1
+object-detection @ file:///Users/chenyangkang/Desktop/%E9%BC%A0%E5%85%94%E6%B4%9Edetection/tensorflow/models/research
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+opencv-python==4.5.3.56
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+pandas==1.3.3
+Pillow @ file:///Users/ktietz/demo/mc3/conda-bld/pillow_1628860154764/work
+ply==3.11
+protobuf==3.17.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybind11==2.7.1
+pycocotools @ file:///Users/runner/miniforge3/conda-bld/pycocotools_1626785596648/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pythran==0.9.11
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
+PyYAML==5.4.1
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scikit-learn @ file:///Users/ktietz/demo/mc3/conda-bld/scikit-learn_1629921365041/work
+scipy==1.7.1
+six @ file:///home/linux1/recipes/ci/six_1610970791821/work
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow-estimator==2.5.0
+tensorflow-macos==2.5.0
+tensorflow-metal==0.1.2
+termcolor==1.1.0
+tf-models-official==2.6.0
+tf-slim==1.1.0
+tfa-nightly==0.15.0.dev20210922190150
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1626092076920/work
+tornado @ file:///Users/ktietz/demo/mc3/conda-bld/tornado_1628698929452/work
+typeguard==2.12.1
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+urllib3==1.26.7
+Werkzeug==2.0.1
+wrapt @ file:///Users/ktietz/demo/mc3/conda-bld/wrapt_1629147080301/work
